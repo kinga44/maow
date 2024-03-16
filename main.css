@@ -1,0 +1,84 @@
+
+
+
+body{
+    background-color:rgb(255, 182, 193);
+    background-image: url(images/Коты\ лапки\ котики\ обои\ розовые\ обои\ с\ котами\ фон\ Cats\ paws\ cats\ wallpaper\ pink\ wallpaper\ with\ cats\ b.jpg);
+    background-size: contain;
+}
+.schoolbell-regular {
+    font-family: "Schoolbell", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.textoutline{
+    color: rgb(230, 32, 118);
+    text-shadow: -3px -3px 0 black,-3px -3px 0 black,-3px -3px 0 black,-3px -3px 0 black;
+}
+header{
+    height: -30px;
+    text-align: center;
+    img{
+        transform: scale(0.8);
+    }
+}
+
+nav{
+    background-color: rgba(255, 0, 123, 0.392);
+    height: 50px;
+    padding-left: 25px;
+    text-align: center;
+    
+}
+
+main{
+    height: 400px;
+    text-align: center;
+    padding-top: 40px;
+    padding-left: 240px;
+    padding-right: 240px;
+    
+}
+
+footer{
+    background-color: rgba(223, 9, 109, 0.395);
+    height: 100px;
+}
+
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+
+
+h1{
+    font-size: 90px;
+    font-family: Schoolbell;
+    color: rgb(213, 0, 121);
+    
+}
+
+
+p{
+    font-size: 25px;
+    font-family: Schoolbell;
+    text-overflow: ellipsis;
+    color: rgb(213, 0, 121);
+}
+
+a{
+    font-size: 35px;
+    color: rgb(213, 0, 121);
+    font-family: Schoolbell;
+    
+}
+
+nav a {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.sillycat{
+    text-align: center;
+}
